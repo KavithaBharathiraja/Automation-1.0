@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Calculator.java&apos; to &apos;myproject/src/test/java/myproject&apos;&#x0A;- Original project: &apos;ClassworkSelenium&apos;&#x0A;- Destination element: &apos;myproject/src/test/java/myproject&apos;&#x0A;- Original element: &apos;classWork.Calculator.java&apos;" description="Copy compilation unit" destination="=myproject/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;myproject" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;classWork{Calculator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1690947653221" units="1" version="1.0"/>
+</session>

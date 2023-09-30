@@ -1,0 +1,13 @@
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (b3f0e6bd9f0d1c6f661147cec36c3bad)] -> id: username] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacKavitha.local', ip: '2601:205:4580:5690:0:0:0:12eb%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.2.1', java.version: '17.0.7'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.114, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: /var/folders/71/65f4sbtx1vs...}, goog:chromeOptions: {debuggerAddress: localhost:54678}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b3f0e6bd9f0d1c6f661147cec36c3bad
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+	at com.training.base.BasePage.waitForElement(BasePage.java:56)
+	at com.training.base.BasePage.enterintoTextbox(BasePage.java:38)
+	at com.training.steps.Steps.user_enter_into_textbox(Steps.java:35)
+	at ✽.user enter into Textbox "Username" "kavi@bharathiraja.com"(file:///Users/kavithabharathiraja/eclipse-workspace/CucumberBasic/features/SalesForce.feature:34)
+

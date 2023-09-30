@@ -1,0 +1,10 @@
+com/training/pages/LeadsPage.class
+com/training/pagefactory/PageFactory.class
+com/training/steps/Steps.class
+com/training/pages/UsermenuPage.class
+com/training/pages/AccountPage.class
+com/training/pages/ContactsPage.class
+com/training/pages/LoginPage.class
+com/training/pages/RandomScenariosPage.class
+com/trining/Runner/Runner.class
+com/training/pages/OpportunitiesPage.class

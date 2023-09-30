@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/kavithabharathiraja/eclipse-workspace/CucumberBasic"/>
+			<item value="/Users/kavithabharathiraja/eclipse-workspace/TeatNGSalesForceAutomation/testingAutomation.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.training.api"/>
+			<item value="com.TestNg"/>
+			<item value="maven-project1"/>
+			<item value="com.SalesForceAutomation"/>
+			<item value="com.training.cucumber"/>
+			<item value="com.Automation.Cucumber"/>
+			<item value="Classwork"/>
+			<item value="SalesfoeceAutomation.Selenium"/>
+			<item value="SalesforceAutomation.selenium"/>
+			<item value="com.mainproject"/>
+			<item value="com.training.maven"/>
+			<item value="com"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="ApiAutomation"/>
+			<item value="TestNg"/>
+			<item value="mavenproject1"/>
+			<item value="SalesForceAutomation.java"/>
+			<item value="CucumberBasic"/>
+			<item value="CucumberBasics"/>
+			<item value="CucumberSalesForceAutomation"/>
+			<item value="ClassworkSelenium"/>
+			<item value="AutomationSafesforceApplication"/>
+			<item value="AutomationSaesforceapplication"/>
+			<item value="AutamationSalesforceapplication"/>
+			<item value="myproject"/>
+			<item value="maven-project"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenDependenciesWizardPage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;seleniumbasic&apos; to &apos;com.automation.Teatng&apos;" description="Rename resource &apos;seleniumbasic&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/seleniumbasic" name="com.automation.Teatng" stamp="1689922024372" updateReferences="true"/>
+</session>
